@@ -1,4 +1,4 @@
-import PageBuilder from "../components/PageBuilder";
+import PageBuilder from "../../components/PageBuilder";
 
 export default {
   title:"PageBuilder",
